@@ -1,12 +1,10 @@
 Open SmartWatch
-===============
-
-Logo Here 
+=============== 
 
 Introduction
 ~~~~~~~~~~~~
 
-This is a Open Source Smart Watch by Paul Smith
+This is the **Open Source Smart Watch** by *Paul Smith*
 
 Media
 ~~~~~
